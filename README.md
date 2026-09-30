@@ -27,8 +27,7 @@ The main purpose of the Billing Management System is to provide an automated sol
 
 **Academic Project**
 
-This Java project Presented in Partial Fulfillment of the Requirements for the Special Course "Java Programming" offered by the  
-Department of Educational Technology and Engineering.  
+This Java project Presented in Partial Fulfillment of the Requirements for the Special Course "Java Programming" offered by the  Department of Educational Technology and Engineering.  
 
 **All the images used in GUI, DB and JDBC are available in BMS zip file.**
 
