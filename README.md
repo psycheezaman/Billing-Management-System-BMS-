@@ -17,6 +17,7 @@ The main purpose of the Billing Management System is to provide an automated sol
 - Printing Facility: Provides options to print customer details, product details, and billing information.
 
 **Technology Stack**
+
 - Programming Language: Java
 - GUI Framework: Java Swing
 - Database: MySQL
@@ -25,6 +26,7 @@ The main purpose of the Billing Management System is to provide an automated sol
 - Server Environment: XAMPP
 
 **Academic Project**
+
 This Java project Presented in Partial Fulfillment of the Requirements for the Special Course "Java Programming" offered by the  
 Department of Educational Technology and Engineering.  
 
